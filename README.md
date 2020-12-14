@@ -1,2 +1,2 @@
-# Resources
+# Resource
 Some of my learning resources
